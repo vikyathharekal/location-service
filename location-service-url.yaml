@@ -31,4 +31,4 @@ metadata:
 spec:
   type: service
   lifecycle: prod
-  owner: location
+  owner: location-team
