@@ -32,3 +32,4 @@ spec:
   type: service
   lifecycle: prod
   owner: location-team
+  system: delivery
